@@ -1,4 +1,4 @@
-## Hello there I am Michael Rozenvasser  👋. I'm currently working at EDGR, a hedge fund research platform -- [EDGR](https://www.edgr.io).
+## Hello there I am Michael Rozenvasser  👋. I'm currently developing EDGR, a hedge fund research platform -- [EDGR](https://www.edgr.io).
 
 ### I am a Data Scientist, ML Researcher, and Financial Model Enthusiast.
 - 🔭 I’m currently working on [Research and Model Optimization for EDGR](https://www.edgr.io/research)
