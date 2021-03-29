@@ -7,7 +7,6 @@
 - 💬 Ask me about how EDGR works!
 - ⚡ Fun fact: I am deeply fascinated by productvity and sometimes write about it on [My Blog](https://mrozenva.medium.com)
 - 🥅 Looking to explore new opportunities, lets connect!
-
 ### Connect with me:
 
 [<img align="left" alt="mrozenva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/michael-rozenvasser-a5489a132/)
