@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate on Open source projects
 - 💬 Ask me about how EDGR works!
 - ⚡ Fun fact: I am deeply fascinated by productvity and sometimes write about it on [My Blog](https://mrozenva.medium.com)
+- 🥅 Looking to explore new opportunities, lets connect!
 -->
 
 ### Connect with me:
